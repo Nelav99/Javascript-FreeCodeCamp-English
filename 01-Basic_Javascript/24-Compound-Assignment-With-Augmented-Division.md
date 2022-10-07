@@ -1,0 +1,38 @@
+# Description:
+
+The /= operator divides a variable by another number.
+
+myVar = myVar / 5;
+Will divide myVar by 5. This can be rewritten as:
+
+myVar /= 5;
+
+# Instructions:
+
+Convert the assignments for `a`, `b`, and `c` to use the `/=` operator.
+
+# Code To Solve:
+
+```Js
+let a = 48;
+let b = 108;
+let c = 33;
+
+// Only change code below this line
+a = a / 12;
+b = b / 4;
+c = c / 11;
+```
+
+# Solution:
+
+```Js
+let a = 48;
+let b = 108;
+let c = 33;
+
+// Only change code below this line
+a /= 12;
+b /= 4;
+c /= 11;
+```
